@@ -6,3 +6,4 @@ export function getLogStudentList (parameter) {
     params: parameter
   })
 }
+//测试1
